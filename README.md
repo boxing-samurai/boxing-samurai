@@ -12,7 +12,8 @@
               Apex Systems/Bloomberg/StatPro/eVestment/Sharepoint)
 - 💞️ I’m looking to learn more about everything!
 - 📫 Contact: 
--            maxanalyticconsultinh@ggmail.com
+-            maxanalyticconsulting@gmail.com
+-           [https://maxanalytic.wordpress.com/]
 -           [https://www.linkedin.com/in/boxing-samurai-4919a1257/ ]
 -           [https://www.linkedin.com/company/max-analytic-consulting/?viewAsMember=true]
 
