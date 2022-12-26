@@ -1,5 +1,5 @@
 - 👋 Hi, I’m the boxing samurai! 
--                 {USA Amatuer Boxer, B.S in Econmics and MS in Business Analytics}
+-                 {USA Amateur Boxer, B.S in Econmics and MS in Business Analytics}
 - 👀 Inetrests: 
 -                 {Strategy, Business Intelligence Development, 
 -                 Automation & Process Improvement, AI & Machine Learning, Advanced Modeling & Analytics, 
