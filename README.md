@@ -4,8 +4,10 @@
 -                 Automation & Process Improvement, AI & Machine Learning, Advanced Modeling & Analytics, 
 -                 Business Intelligence & Statistics, Database Management, Data Analysis & Visualization, 
 -                 Spreadsheet Modeling, Technology enthusiast and leader}
-- 🌱 Skills: (Alteryx/Snowflake/Azure/Java/C#/Anaconda/Python/R/ SQL/NoSQL/C#/ETL/Tableau/PowerBI
--             /Orange/Lucid/MS Office & Visual Studio/Apex Systems/Bloomberg/StatPro/eVestment/Sharepoint)
+- 🌱 Skills: (Alteryx/Snowflake/Azure/Java/C#/
+              Anaconda/Python/R/ SQL/NoSQL/C#/ETL/Tableau/PowerBI
+-             /Orange/Lucid/MS Office & Visual Studio/
+              Apex Systems/Bloomberg/StatPro/eVestment/Sharepoint)
 - 💞️ I’m looking to learn more about everything!
 - 📫 Contact: maxanalyticconsultinh@ggmail.com
 -           [https://www.linkedin.com/in/boxing-samurai-4919a1257/ ]
